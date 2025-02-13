@@ -1,0 +1,8 @@
+Anotações:
+==> git init: cria repositório local
+==> git status: ratrear arquivos modificados
+==> git config --global --list: exibe configurações globais
+==> git config --global user.name "fulano-de-tal": configura conta de usuário no git
+==> git config --global user.email "fulano@teste.com": configura email do usuário
+==> git reset [arquivo.ext]: remover arqvuio da area staging
+==> git add [arquivo.ext]: adicionar arquivo na area staging
